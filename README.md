@@ -10,7 +10,7 @@ Olá, sou Enrique, programador front-end :computer:. Atualmente estou aprendendo
 -Atualmente estou aprendendo:
 
 <ul>
- <li><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+ <li><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
  </li>
   <li><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </li>
