@@ -20,7 +20,7 @@ Olá, sou Enrique, programador front-end :computer:. Atualmente estou aprendendo
   
   conecte-se comigo:
   <br>
-  <a href="https://www.linkedin.com/in/enrique-jose-blanco-bastardo-0a162a2b2/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+  <a href="www.linkedin.com/in/enrique-blanco-bastardo"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
   
 
 ![Enrique GitHub stats](https://github-readme-stats.vercel.app/api?username=EnriqueB93&show_icons=true&theme=radical)
