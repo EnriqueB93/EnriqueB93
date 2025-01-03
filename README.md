@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](../github-header-image%20(2).png)
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 <h1 align="center">Hola 👋, soy Enrique Blanco</h1>
 <h3 align="center">Programador Full-Stack en formación** 💻 Apasionado por la tecnología y la creación de soluciones web.</h3>
