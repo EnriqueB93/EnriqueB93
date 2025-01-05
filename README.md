@@ -34,7 +34,7 @@
   <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EnriqueB93&theme=blue-green&hide_border=false" /> 
 </div>
 <br> 
-<p><img  width="400" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueB93&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="enriqueb93" /> <img   width="420" align="right"  src="https://github-readme-stats.vercel.app/api?username=EnriqueB93&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" /></p>
+<p align="center"><img  width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueB93&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="enriqueb93" />   <img width="430"   src="https://github-readme-stats.vercel.app/api?username=EnriqueB93&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" /></p>
 
 
 
