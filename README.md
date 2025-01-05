@@ -36,9 +36,7 @@
 <br> 
 
 <p>
-  <img  width="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueB93&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="enriqueb93" /></p>
-  <p>
-  <img   width="320" align="right"  src="https://github-readme-stats.vercel.app/api?username=EnriqueB93&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" />
+  <img  width="400" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueB93&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="enriqueb93" /> <img   width="420" align="right"  src="https://github-readme-stats.vercel.app/api?username=EnriqueB93&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" />
 </p>
 
 
