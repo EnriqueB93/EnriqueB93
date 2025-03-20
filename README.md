@@ -3,35 +3,35 @@
 </div>
 <br>
 
-<h1 align="center">Hi 👋, I´m Enrique Blanco</h1>
-<h3 align="center">💻 Frontend Developer | Aspiring Full-Stack Developer</h3>
+<h1 align="center">Olá , Eu sou Enrique Blanco</h1>
+<h3 align="center"> Desenvolvedor Frontend | Desenvolvedor Full-Stack</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enriqueb93&label=Profile%20views&color=0e75b6&style=flat" alt="enriqueb93" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=enriqueb93&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="enriqueb93" /> </p>
 <img align="right" alt="Coding" width="350"  src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
-🎯 Skills:
+ Habilidades:
 <br>
--Building professional websites. <br>
--Responsive design and mobile optimization.<br>
--Project management using Git and GitHub (branch, merge, pull requests).<br>
--Experience with tools like Biome and ESLint.<br> 
+-Construção de sites profissionais. <br>
+-Design responsivo e otimização para dispositivos móveis.<br>
+-Gerenciamento de projetos usando Git e GitHub .<br>
+-Experiência com ferramentas como Biome e ESLint.<br> 
 <br>
-📚 Currently Learning:
+ Atualmente :
 
--Node.js and backend development.<br>
--React.js for dynamic web applications.<br>
--Scrum and agile methodologies.
+-Node.js e desenvolvimento backend.<br>
+-React.js para aplicações web dinâmicas.<br>
+-Scrum e metodologias ágeis.
 
-<h3 align="left"> Get in Touch:</h3>
+<h3 align="left"> Entre em Contato:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/enrique-jose-blanco/" target="_blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 <br>
 <section id="tech-stack">
-  <h2>💻 Tech Stack</h2>
+  <h2> Stack Tecnológico</h2>
 
   <div align="left" style="display:flex  justify-content: space-around;   flex-wrap: wrap; gap: 50px;"><br>
-    <h3>🖥️ Frontend Development:</h3>
+    <h3> Desenvolvimento Frontend:</h3>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     </a>
@@ -50,7 +50,7 @@
     <a href="https://vitejs.dev/" target="_blank">
       <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
     </a><br>
-   <h3>🔧 Backend Development:</h3>
+   <h3> Desenvolvimento Backend:</h3>
     <a href="https://nodejs.org/" target="_blank">
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
     </a>
@@ -63,7 +63,7 @@
     <a href="https://sequelize.org/" target="_blank">
       <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="Sequelize">
     </a><br>
-       <h3>🛠️ Tools & Platforms:</h3>
+       <h3> Ferramentas & Plataformas:</h3>
     <a href="https://git-scm.com/" target="_blank">
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     </a>
@@ -86,7 +86,7 @@
       <img src="https://img.shields.io/badge/ChatGPT-%234A154B.svg?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
     </a><br>
 
-   <h3>🎨 Design Tools:</h3>
+   <h3> Ferramentas de Design:</h3>
     <a href="https://www.figma.com/" target="_blank">
       <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
     </a>
@@ -96,7 +96,7 @@
   </div>
 </section>
 
-# 📊 GitHub Stats:
+#  Estatísticas do GitHub:
 
 <div  align="center" > 
   <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EnriqueB93&theme=blue-green&hide_border=false" /> 
@@ -106,8 +106,8 @@
 </p>
 
 <section id="contact">
-  <h2>🤝 Looking to Collaborate?</h2>
-  <p>Feel free to reach out via:</p>
+  <h2> Procurando Colaborar?</h2>
+  <p>Sinta-se à vontade para entrar em contato através de:</p>
   <p style="display: flex; gap: 10px; align-items: center;">
     <a href="https://www.linkedin.com/in/enrique-jose-blanco/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -117,8 +117,6 @@
     </a>
   </p>
 </section>
-
-
 
 
 
